@@ -1,18 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/10/2014, 02:54:38
+    Author     : Acacio
+*/
+
 #cabecalho{
      background-color: #6175f0;
+     border-bottom: -35px;
 }
-h1{
+#cabecalho h1{
     font-family: Kaushan Script;
     color: white;
     font-size: 36px;
     padding-left: 34px;
     padding-top: 20px;
 }
-h2{
+#cabecalho h2{
     font-family: "Times New Roman";
     color: white;
     font-size: 24px;
     padding-left: 34px;
     padding-bottom: 13px;
+}
+
+
+#verdade img{
+    width: 310px;
+    float: left;
+    /* border-right-width: 90px !important; */
+
+}
+#verdade h2{
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 24px; 
+}
+#verdade p{
+    font-family: "Arial";
+    font-size: 14px;
 }
 
