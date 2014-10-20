@@ -20,7 +20,7 @@ and open the template in the editor.
     padding-top: 20px;
 }
 #cabecalho h2{
-    font-family: "Times New Roman";
+    font-family: Times New Roman;
     color: white;
     font-size: 24px;
     padding-left: 34px;
@@ -31,6 +31,7 @@ and open the template in the editor.
 #verdade img{
     width: 310px;
     float: left;
+	padding-right: 13px;
     /* border-right-width: 90px !important; */
 
 }
@@ -40,7 +41,47 @@ and open the template in the editor.
     font-size: 24px; 
 }
 #verdade p{
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 14px;
+}
+#hoje {
+	float: right;
+	width: 405px;
+	background-color: #f8cef7;
+	border: 1px;
+	border: solid;
+	border-color: #ff56fb;
+	padding-right: 35px;
+
+}
+#hoje img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:112px;
+	height: 112px;
+}
+#hoje h3{
+	text-align: center;
+}
+#hoje h2{
+	padding-top: 20px;
+	text-align: center;
+}
+#hoje p{
+	padding-left: 35px;
+	padding-right: 35px;
+	text-align: center;
+}
+
+#ultimoP{
+	padding-bottom: 30px;
+}
+#musica{
+}
+
+.destacado{
+	background-color: #C4CAF3;
+	color: #004A79;
 }
 
